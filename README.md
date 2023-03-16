@@ -59,3 +59,9 @@ AND Description = 'Something to filter your ContentDocuments on'"
 
 This was a small implementation for a customer that I decided to clean up and put on GitHub,
 I guess there are tons of bugs in here so please feel free to contact me if you find any of those.
+
+
+Adding -
+
+- Option for deletion  downloaded files
+- Option for scheduling 
